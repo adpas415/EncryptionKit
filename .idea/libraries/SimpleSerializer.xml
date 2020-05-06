@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimpleSerializer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SimpleSerializer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
